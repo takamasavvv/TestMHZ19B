@@ -1,0 +1,15 @@
+{
+  "name": "mhz19b_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obniz": "^3.12.0-beta.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
